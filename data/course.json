@@ -1,0 +1,25 @@
+{
+  "level": "",
+  "topics": [],
+  "instructors": {
+    "content": [],
+    "website": "test-george-rc-753"
+  },
+  "course_image": {
+    "content": "",
+    "website": "test-george-rc-753"
+  },
+  "course_title": "title",
+  "course_description": "",
+  "department_numbers": [
+    "5"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "3",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "test-george-rc-753"
+  },
+  "learning_resource_types": [],
+  "site_uid": "98f7fbae-1ffc-4fc2-b9ea-a406410e0a29"
+}
